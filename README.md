@@ -25,3 +25,4 @@ Windows Terminal - Command-line interface for running the application
 - Data Visualization
 
 - Export Functionality
+
